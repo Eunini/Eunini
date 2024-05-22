@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eunini
-- 👀 I’m interested in front end web development
-- 🌱 I’m currently learning react.js and python
-- 💞️ I’m looking to collaborate on front end projects
+- 👀 I’m interested in front end web development, backend development and DevOps engineering.
+- 🌱 I’m currently learning react.js and python and Java.
+- 💞️ I’m looking to collaborate on full stack projects
 - 📫 How to reach me WhatsApp- +2348053874109
 - 😄 Pronouns: she
 - ⚡ Fun fact: coding is fun. Debugging is fun
