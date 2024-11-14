@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eunini
+Hello there 👋
 - 👀 I’m interested in front end web development, backend development and DevOps engineering.
 - 🌱 I’m currently learning react.js and python and Java.
 - 💞️ I’m looking to collaborate on full stack projects
