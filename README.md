@@ -5,7 +5,7 @@ Full Stack Web Developer and DevOps Engineer
 --------------------------------------------
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [my portfolio](http://portfolio-r9ob-git-master-inioluwas-projects-37796f48.vercel.app)
+* 🖥️  See my portfolio at [my portfolio](https://bit.ly/3OZtj4B)
 * ✉️  You can contact me at [atandainioluwa371@gmail.com](mailto:atandainioluwa371@gmail.com)
 * 🚀  I'm currently working on [Chatio](http://GitHub.io/chatio.git)
 * 🧠  I'm learning Typescript , Kuberneets, Ansible
