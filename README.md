@@ -5,10 +5,10 @@ Full Stack Web Developer and DevOps Engineer
 --------------------------------------------
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [my portfolio](https://bit.ly/3OZtj4B)
+* 🖥️  See my portfolio at https://full-stack-portfolio-three.vercel.app/
 * ✉️  You can contact me at [atandainioluwa371@gmail.com](mailto:atandainioluwa371@gmail.com)
-* 🚀  I'm currently working on [Chatio](http://GitHub.io/chatio.git)
-* 🧠  I'm learning Typescript , Kuberneets, Ansible
+* 🚀  I'm currently working on EFDS, a fintech web app https://github.com/yemipidanhub/efds.git
+* 🧠  I'm learning IAM, DevSecOps.
 * 🤝  I'm open to collaborating on Interesting and Awesome projects
 * ⚡  Shush, I'm a secret WordPress developer, don't tell anyone🌚
 
