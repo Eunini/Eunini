@@ -1,10 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Inioluwa Atanda
 =======================================================================================================================================
 
-Full Stack Web Developer and DevOps Engineer
+Software Developer and DevOps Engineer
 --------------------------------------------
 
-* 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at https://full-stack-portfolio-three.vercel.app/
 * ✉️  You can contact me at [atandainioluwa371@gmail.com](mailto:atandainioluwa371@gmail.com) https://github.com/yemipidanhub/efds.git
 * 🧠  I'm learning AI modelling and  Solitions Architecture.
