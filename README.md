@@ -5,7 +5,7 @@ Software Developer and DevOps Engineer
 --------------------------------------------
 
 * 🖥️  See my portfolio at https://full-stack-portfolio-three.vercel.app/
-* ✉️  You can contact me at [atandainioluwa371@gmail.com](mailto:atandainioluwa371@gmail.com) https://github.com/yemipidanhub/efds.git
+* ✉️  You can contact me at [atandainioluwa371@gmail.com](mailto:atandainioluwa371@gmail.com) 
 * 🧠  I'm learning AI modelling and  Solitions Architecture.
 * 🤝  I'm open to collaborating on Interesting and Awesome projects
 * ⚡  Shush, I'm a secret WordPress developer, don't tell anyone🌚
